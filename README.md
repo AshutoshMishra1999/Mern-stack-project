@@ -1,4 +1,6 @@
+
 # Getting Started with Create React App
+![view](https://user-images.githubusercontent.com/118618087/218996018-fd2a8380-0ba8-433e-bef9-b0f3a200631e.png)
 <img src = "view.png">
 
 ## Available Scripts
