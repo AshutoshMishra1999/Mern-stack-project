@@ -1,0 +1,17 @@
+GET http://localhost:3004/todos
+
+###
+POST http://localhost:3004/todo/new
+Content-Type: application/json
+{
+    "text": "Having my Dinner"
+}
+
+###
+DELETE http://localhost:3004/todo/delete/63ec6742350fc15f47c0dc72
+
+###
+GET http://localhost:3004/todos/complete/63ec69a5350fc15f47c0dc97
+
+###
+PUT http://localhost:3004/todos/complete/63e8985d7a9e5515887285ab
